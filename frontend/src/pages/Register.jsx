@@ -40,7 +40,7 @@ export default function SignInPage() {
   return (
     <div className="flex items-center justify-center min-h-screen bg-gray-50">
       <div className="bg-white rounded-lg shadow-lg p-8 max-w-md w-full">
-        <h2 className="text-2xl font-bold text-gray-800 mb-6 text-center">Sign In</h2>
+        <h2 className="text-2xl font-bold text-gray-800 mb-6 text-center">Sign Up</h2>
         
         <form onSubmit={handleSubmit}>
           {/* Name Input */}
@@ -108,15 +108,15 @@ export default function SignInPage() {
             type="submit"
             className="w-full bg-indigo-600 hover:bg-indigo-700 text-white font-medium py-2 rounded-md transition-colors"
           >
-            Sign In
+            Sign Up
           </button>
         </form>
 
         {/* Alternative Links */}
         <div className="mt-4 text-center">
           <p className="text-gray-600">
-            Don't have an account? 
-            <a href="/signup" className="text-indigo-600 hover:text-indigo-800 font-medium"> Sign Up</a>
+            Already have an account? 
+            <a href="/login" className="text-indigo-600 hover:text-indigo-800 font-medium"> log In</a>
           </p>
         </div>
       </div>

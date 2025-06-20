@@ -40,7 +40,8 @@ export default function BrowseBooks() {
     author: "Paulo Coelho",
     rating: 4.4,
     reviewCount: 15432,
-    cover: "https://images.unsplash.com/photo-1590608897129-79da98d159e6?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
+    // cover: "https://images.unsplash.com/photo-1590608897129-79da98d159e6?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
+    cover:"https://schoolworkhelper.net/wp-content/uploads/2021/10/The-Alchemist.jpg",
     category: "Fiction",
     featured: false
   },
@@ -51,7 +52,8 @@ export default function BrowseBooks() {
     author: "David Goggins",
     rating: 4.8,
     reviewCount: 19234,
-    cover: "https://images.unsplash.com/photo-1611078489935-fd99a7f6317a?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
+    // cover: "https://images.unsplash.com/photo-1611078489935-fd99a7f6317a?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
+    cover:"https://tse4.mm.bing.net/th?id=OIP.FTI2_6ZqX5c9OdJVyaVVQQAAAA&pid=Api&P=0&h=180",
     category: "Biography",
     featured: true
   }
