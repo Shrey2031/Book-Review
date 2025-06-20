@@ -93,10 +93,22 @@ POST /api/reviews (user only)
 ## 📸 Screenshots
 
 ### 🔹 Home Page
-![Home Page](./screenshots/homepage.png)
+![Home Page](./screenshot/Home.png)
 
 ### 🔹 Book Details Page
-![Book Details](./screenshots/book-details.png)
+![Book Details](./screenshot/book%20page.png)
+
+### 🔹 Review Details Page
+![Book Details](./screenshot/review%20page.png)
+
+### 🔹 sign In & sign Up Details Page
+![Book Details](./screenshot/login%20page.png)
+![Book Details](./screenshot/signup.png)
+
+
+
+
+
 
 
 👤 Author
